@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 400" role="img" aria-label="IDE">
+<rect width="900" height="400" rx="14" fill="#fff" stroke="#d9d2c3"/><rect width="900" height="40" rx="14" fill="#2d2a6e"/><rect y="26" width="900" height="14" fill="#2d2a6e"/>
+<circle cx="22" cy="20" r="6" fill="#e06c5d"/><circle cx="42" cy="20" r="6" fill="#e6b450"/><circle cx="62" cy="20" r="6" fill="#62b26b"/>
+<rect x="20" y="54" width="120" height="28" rx="6" fill="#2e7d32"/><text x="80" y="73" text-anchor="middle" font-size="15" fill="#fff">▶</text>
+<rect x="20" y="92" width="860" height="290" rx="6" fill="#fbfaf7" stroke="#bbb"/>
+<text x="32" y="118" text-anchor="start" direction="ltr" font-family="ui-monospace,monospace" font-size="15" fill="#1d1b17" xml:space="preserve">#अन्तर्भाव &lt;stdio.h&gt;</text>
+<text x="32" y="139" text-anchor="start" direction="ltr" font-family="ui-monospace,monospace" font-size="15" fill="#1d1b17" xml:space="preserve">/* क्रमवार यादीत द्विमान शोध */</text>
+<text x="32" y="160" text-anchor="start" direction="ltr" font-family="ui-monospace,monospace" font-size="15" fill="#1d1b17" xml:space="preserve">पूर्णांक द्विमान_शोध(पूर्णांक मूल्ये[], पूर्णांक मोजणी, पूर्णांक किल्ली) {</text>
+<text x="32" y="181" text-anchor="start" direction="ltr" font-family="ui-monospace,monospace" font-size="15" fill="#1d1b17" xml:space="preserve">  पूर्णांक खालचा = 0, वरचा = मोजणी - 1;</text>
+<text x="32" y="202" text-anchor="start" direction="ltr" font-family="ui-monospace,monospace" font-size="15" fill="#1d1b17" xml:space="preserve">  पर्यंत (खालचा &lt;= वरचा) {</text>
+<text x="32" y="223" text-anchor="start" direction="ltr" font-family="ui-monospace,monospace" font-size="15" fill="#1d1b17" xml:space="preserve">    पूर्णांक मधला = खालचा + (वरचा - खालचा) / 2;</text>
+<text x="32" y="244" text-anchor="start" direction="ltr" font-family="ui-monospace,monospace" font-size="15" fill="#1d1b17" xml:space="preserve">    जर (मूल्ये[मधला] == किल्ली) परत मधला;</text>
+<text x="32" y="265" text-anchor="start" direction="ltr" font-family="ui-monospace,monospace" font-size="15" fill="#1d1b17" xml:space="preserve">    जर (मूल्ये[मधला] &lt; किल्ली) खालचा = मधला + 1; अन्यथा वरचा = मधला - 1;</text>
+<text x="32" y="286" text-anchor="start" direction="ltr" font-family="ui-monospace,monospace" font-size="15" fill="#1d1b17" xml:space="preserve">  }</text>
+<text x="32" y="307" text-anchor="start" direction="ltr" font-family="ui-monospace,monospace" font-size="15" fill="#1d1b17" xml:space="preserve">  परत -1;</text>
+<text x="32" y="328" text-anchor="start" direction="ltr" font-family="ui-monospace,monospace" font-size="15" fill="#1d1b17" xml:space="preserve">}</text>
+<text x="32" y="349" text-anchor="start" direction="ltr" font-family="ui-monospace,monospace" font-size="15" fill="#1d1b17" xml:space="preserve">पूर्णांक मुख्य(शून्य) {</text>
+</svg>
